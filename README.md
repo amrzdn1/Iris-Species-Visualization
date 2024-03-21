@@ -15,8 +15,8 @@ The primary objective of this project is to conduct a visual analysis of the Iri
 
 ## Project Structure
 
-- `Iris_Species_Visualization.ipynb`: Jupyter Notebook containing Python code for data cleaning, visualization, and classification of Iris species.
-- `iris_dataset.csv`: Dataset utilized for analysis, meticulously cleaned to eliminate nulls, duplicates, and missing data.
+- `Iris Species.ipynb`: Jupyter Notebook containing Python code for data cleaning, visualization, and classification of Iris species.
+- `Iris.csv`: Dataset utilized for analysis, meticulously cleaned to eliminate nulls, duplicates, and missing data.
 
 ## Instructions
 
